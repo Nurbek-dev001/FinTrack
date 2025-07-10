@@ -1,0 +1,13 @@
+{
+  "$schema": "./node_modules/package-json-schema/schema.json",
+  "name": "fintrack",
+  "version": "1.0.0",
+  "description": "Умный трекер финансов",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
